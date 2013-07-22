@@ -9,7 +9,7 @@ Install
 
 Just add it got your Gemfile:
 
-  gem swfobject-rails
+    gem 'swfobject-rails'
 
 
 Quick Start
